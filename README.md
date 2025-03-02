@@ -19,7 +19,9 @@ operations—inventory management, sales tracking, and customer relations. This
 objective is driven by the vision to provide SMEs with a user-friendly, cost-effective,
 and easily adaptable retail management tool.
 
+
 REQUIREMENTS
+
 
 Hardware
 Server:
@@ -46,10 +48,17 @@ User Interface: Tkinter: For the graphical user interface (GUI) in Python
 Development Environment: Integrated Development Environment (IDE): Such
 as VSCode or PyCharm for coding efficiency.
 
+
 ARCHITECTURE AND DESIGN
+
+
 ![Screenshot 2025-03-03 003747](https://github.com/user-attachments/assets/d881c573-2386-4269-ad03-7e831f1ceec0)
 
+
+
 RESULTS:
+
+
 ![Screenshot 2025-03-03 003845](https://github.com/user-attachments/assets/e4f92ab1-5b20-420f-b2e8-4679066ca380)
 ![Screenshot 2025-03-03 003924](https://github.com/user-attachments/assets/d997b1ca-6074-4178-a0ec-03342623b08c)
 
