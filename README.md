@@ -20,7 +20,7 @@ objective is driven by the vision to provide SMEs with a user-friendly, cost-eff
 and easily adaptable retail management tool.
 
 
-REQUIREMENTS
+## REQUIREMENTS
 
 
 Hardware
