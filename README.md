@@ -10,7 +10,7 @@ Evolving Retail Dynamics: The retail industry is undergoing rapid transformation
 Pioneering Change: Ultimately, the motivation behind MRMS is to pioneer a change in the way SMEs approach retail management. It envisions a future where small retailers can harness the power of technology without being overwhelmed by unnecessary complexities. By providing a minimalist, yet robust solution, MRMS seeks to contribute to the resilience and growth of SMEs in the ever-evolving and competitive retail landscape.
 
 
-OBJECTIVE
+## OBJECTIVE
 
 The primary objective of the MRMS Mini Project is to pioneer a minimalist retail
 management solution that addresses the specific needs of SMEs. By prioritizing
