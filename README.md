@@ -23,7 +23,7 @@ and easily adaptable retail management tool.
 ## REQUIREMENTS
 
 
-Hardware
+### Hardware
 Server:
 • Processor: Multi-core processor (e.g., Intel Core i5 or equivalent).
 • RAM: 8 GB or higher for optimal performance.
