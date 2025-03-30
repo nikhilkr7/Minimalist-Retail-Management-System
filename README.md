@@ -44,7 +44,8 @@ For storing and managing data efficiently.
 ##### Server-Side Scripting: 
 Python: For server-side scripting and application logic.
 
-User Interface: Tkinter: For the graphical user interface (GUI) in Python
+##### User Interface: 
+Tkinter: For the graphical user interface (GUI) in Python
 
 Development Environment: Integrated Development Environment (IDE): Such
 as VSCode or PyCharm for coding efficiency.
