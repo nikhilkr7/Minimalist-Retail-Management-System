@@ -33,7 +33,7 @@ and easily adaptable retail management tool.
 • RAM: 4 GB or higher.
 • Storage: SSD or HDD storage
 
-#### Software
+### Software
 ##### Operating System:
 • Server: Linux (e.g., Ubuntu Server) or Windows Server.
 • Client Machines: Windows, macOS, or Linux.
