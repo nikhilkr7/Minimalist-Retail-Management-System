@@ -34,7 +34,7 @@ and easily adaptable retail management tool.
 • Storage: SSD or HDD storage
 
 #### Software
-Operating System:
+##### Operating System:
 • Server: Linux (e.g., Ubuntu Server) or Windows Server.
 • Client Machines: Windows, macOS, or Linux.
 
