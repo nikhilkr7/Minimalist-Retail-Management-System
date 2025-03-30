@@ -38,10 +38,11 @@ and easily adaptable retail management tool.
 • Server: Linux (e.g., Ubuntu Server) or Windows Server.
 • Client Machines: Windows, macOS, or Linux.
 
-##### Database Management System MySQL: For storing and managing data
-efficiently.
+##### Database Management System MySQL: 
+For storing and managing data efficiently.
 
-Server-Side Scripting: Python: For server-side scripting and application logic.
+##### Server-Side Scripting: 
+Python: For server-side scripting and application logic.
 
 User Interface: Tkinter: For the graphical user interface (GUI) in Python
 
