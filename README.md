@@ -52,7 +52,7 @@ Integrated Development Environment (IDE): Such
 as VSCode or PyCharm for coding efficiency.
 
 
-ARCHITECTURE AND DESIGN
+## ARCHITECTURE AND DESIGN
 
 
 ![Screenshot 2025-03-03 003747](https://github.com/user-attachments/assets/d881c573-2386-4269-ad03-7e831f1ceec0)
