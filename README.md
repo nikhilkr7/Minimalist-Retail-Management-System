@@ -38,7 +38,7 @@ and easily adaptable retail management tool.
 • Server: Linux (e.g., Ubuntu Server) or Windows Server.
 • Client Machines: Windows, macOS, or Linux.
 
-##### Database Management System MySQL: 
+#### Database Management System MySQL: 
 For storing and managing data efficiently.
 
 ##### Server-Side Scripting: 
