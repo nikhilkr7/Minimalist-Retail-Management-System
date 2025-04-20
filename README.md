@@ -32,7 +32,9 @@ and easily adaptable retail management tool.
 • Storage: SSD storage for faster data access.
 #### Client Machines:
 • Processor: Dual-core processor or higher.
+
 • RAM: 4 GB or higher.
+
 • Storage: SSD or HDD storage
 
 ### Software
