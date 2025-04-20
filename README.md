@@ -40,6 +40,7 @@ and easily adaptable retail management tool.
 ### Software
 #### Operating System:
 • Server: Linux (e.g., Ubuntu Server) or Windows Server.
+
 • Client Machines: Windows, macOS, or Linux.
 
 #### Database Management System MySQL: 
