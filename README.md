@@ -3,7 +3,7 @@ The Minimalist Retail Management System represents a pioneering effort to revolu
 
 ## INTRODUCTION
 
-The motivation behind the creation of MRMS stems from the inherent challenges faced by SMEs in adopting and leveraging traditional retail management systems. As retail environments evolve, the need for accessible, efficient, and tailored solutions becomes increasingly evident. The motivation is rooted in the desire to empower SMEs with a system that aligns with their scale, operational nuances, and growth aspirations.
+* The motivation behind the creation of MRMS stems from the inherent challenges faced by SMEs in adopting and leveraging traditional retail management systems. As retail environments evolve, the need for accessible, efficient, and tailored solutions becomes increasingly evident. The motivation is rooted in the desire to empower SMEs with a system that aligns with their scale, operational nuances, and growth aspirations.
 
 * Evolving Retail Dynamics: The retail industry is undergoing rapid transformations, propelled by advancements in technology, changing consumer behaviors, and the globalization of markets. SMEs, despite being integral to the retail fabric, often grapple with adapting to these dynamics. The motivation for MRMS arises from the recognition that SMEs require agile and adaptive retail management solutions to thrive in this dynamic landscape.
 
