@@ -43,7 +43,7 @@ and easily adaptable retail management tool.
 
 • Client Machines: Windows, macOS, or Linux.
 
-#### Database Management System MySQL: 
+#### 2. Database Management System MySQL: 
 For storing and managing data efficiently.
 
 #### Server-Side Scripting: 
