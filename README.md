@@ -46,7 +46,7 @@ and easily adaptable retail management tool.
 #### 2. Database Management System MySQL: 
 For storing and managing data efficiently.
 
-#### Server-Side Scripting: 
+#### 3. Server-Side Scripting: 
 Python: For server-side scripting and application logic.
 
 #### User Interface: 
