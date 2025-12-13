@@ -45,7 +45,7 @@ and easily adaptable retail management tool.
 • Client Machines: Windows, macOS, or Linux.
 
 #### 2. Database Management System MySQL: 
-For storing and managing data efficiently.
+* For storing and managing data efficiently.
 
 #### 3. Server-Side Scripting: 
 Python: For server-side scripting and application logic.
