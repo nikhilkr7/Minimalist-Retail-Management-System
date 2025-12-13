@@ -48,7 +48,7 @@ and easily adaptable retail management tool.
 * For storing and managing data efficiently.
 
 #### 3. Server-Side Scripting: 
-Python: For server-side scripting and application logic.
+* Python: For server-side scripting and application logic.
 
 #### User Interface: 
 Tkinter: For the graphical user interface (GUI) in Python
