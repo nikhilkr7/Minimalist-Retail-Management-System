@@ -54,7 +54,7 @@ and easily adaptable retail management tool.
 * Tkinter: For the graphical user interface (GUI) in Python
 
 #### Development Environment: 
-Integrated Development Environment (IDE): Such as VSCode or PyCharm for coding efficiency.
+* Integrated Development Environment (IDE): Such as VSCode or PyCharm for coding efficiency.
 
 
 ## ARCHITECTURE AND DESIGN
