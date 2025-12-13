@@ -51,7 +51,7 @@ and easily adaptable retail management tool.
 * Python: For server-side scripting and application logic.
 
 #### User Interface: 
-Tkinter: For the graphical user interface (GUI) in Python
+* Tkinter: For the graphical user interface (GUI) in Python
 
 #### Development Environment: 
 Integrated Development Environment (IDE): Such as VSCode or PyCharm for coding efficiency.
