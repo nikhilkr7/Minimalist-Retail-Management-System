@@ -30,7 +30,7 @@ and easily adaptable retail management tool.
 
 * RAM: 8 GB or higher for optimal performance.
 
-• Storage: SSD storage for faster data access.
+* Storage: SSD storage for faster data access.
 #### 2. Client Machines:
 
 • Processor: Dual-core processor or higher.
