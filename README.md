@@ -28,7 +28,7 @@ and easily adaptable retail management tool.
 #### 1. Server:
 * Processor: Multi-core processor (e.g., Intel Core i5 or equivalent).
 
-• RAM: 8 GB or higher for optimal performance.
+* RAM: 8 GB or higher for optimal performance.
 
 • Storage: SSD storage for faster data access.
 #### 2. Client Machines:
